@@ -302,7 +302,7 @@ veri=$(echo -e "\e[01;37m Opção: \e[0m")
 
                 
 
-                                VEZES=9999
+                                VEZES=9
 
                                 for i in $(seq $VEZES);
 
@@ -338,7 +338,7 @@ veri=$(echo -e "\e[01;37m Opção: \e[0m")
 
                               do
 
-                           VEZES=9999
+                           VEZES=9
 
                            tokens1=("sed '"$o"p; d'")
 
@@ -438,7 +438,7 @@ veri=$(echo -e "\e[01;37m Opção: \e[0m")
 
                                    do
 
-                                VEZES=9999
+                                VEZES=9
 
                                 tokens1=("sed '"$o"p; d'")
 
@@ -620,7 +620,7 @@ veri=$(echo -e "\e[01;37m Opção: \e[0m")
 
                 
 
-                          VEZES=9999
+                          VEZES=9
 
                          for i in $(seq $VEZES);
 
@@ -654,7 +654,7 @@ veri=$(echo -e "\e[01;37m Opção: \e[0m")
 
                        do
 
-                    VEZES=9999
+                    VEZES=9
 
                     tokens1=("sed '"$o"p; d'")
 
@@ -744,7 +744,7 @@ veri=$(echo -e "\e[01;37m Opção: \e[0m")
 
                                do
 
-                            VEZES=9999
+                            VEZES=9
 
                             tokens1=("sed '"$o"p; d'")
 
@@ -864,7 +864,7 @@ veri=$(echo -e "\e[01;37m Opção: \e[0m")
 
              do
 
-         VEZES=9999
+         VEZES=9
 
          tokens1=("sed '"$o"p; d'")
 
